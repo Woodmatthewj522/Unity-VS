@@ -6,6 +6,8 @@ TagManager:
   tags:
   - PowerPotion
   - Enemy
+  - Powerup
+  - PlayerGoal
   layers:
   - Default
   - TransparentFX
